@@ -1,0 +1,21 @@
+{
+  "name": "docker-rep1",
+  "version": "1.0.0",
+  "description": "first repository on GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfacluze/docker-rep1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Alfacluze/docker-rep1/issues"
+  },
+  "homepage": "https://github.com/Alfacluze/docker-rep1#readme"
+}
